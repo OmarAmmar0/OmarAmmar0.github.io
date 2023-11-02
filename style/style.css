@@ -24,7 +24,7 @@ body {
 }
 
 .container {
-  width: min(1000px, 220%);
+  width: min(400px, 220%);
   padding: 1rem;
 }
 
